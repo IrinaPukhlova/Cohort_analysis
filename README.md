@@ -1,5 +1,9 @@
 # Cohort_analysis for retail e-store
 
+## Tech Stack
+Python / Pandas / Matplotlib / Seaborn / Jupiter Notebook
+The main analysis is done in the Jupiter Notebook file [cohort_analysis.ipynb](https://github.com/IrinaPukhlova/AB_testing/blob/main/AB_testing_project.ipynb)
+
 ## Goal
 We need to find the customer groups that bring us the most and the worst revenue for a retail store. And analyze their behavior to plan marketing activities to improve sales and customer service.
 
@@ -24,9 +28,6 @@ Cohort size : month
 Reporting period : 12 months from 01-12-2009 to 01-12-2010
 
 Key metrics : Revenue and ARPU (Average revenue per user)
-
-## Tech Stack
-Python / Pandas / Matplotlib / Seaborn / Jupiter Notebook
 
 ## Conclusion
 - We found the more valuable customer groups that bring us the most revenue in total and per customer - it's "2009-12 cohort"
