@@ -3,7 +3,7 @@
 ## Tech Stack
 Python / Pandas / Matplotlib / Seaborn / Jupiter Notebook
 
-The main analysis is done in the Jupiter Notebook file [cohort_analysis.ipynb](https://github.com/IrinaPukhlova/AB_testing/blob/main/AB_testing_project.ipynb)
+The main analysis is done in the Jupiter Notebook file [cohort_analysis.ipynb](https://github.com/IrinaPukhlova/Cohort_analysis/blob/main/cohort_analysis.ipynb)
 
 ## Goal
 We need to find the customer groups that bring us the most and the worst revenue for a retail store. And analyze their behavior to plan marketing activities to improve sales and customer service.
