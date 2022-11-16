@@ -1,4 +1,4 @@
-# Cohort_analysis for retail e-store
+# Cohort analysis for retail e-store
 
 ## Tech Stack
 Python / Pandas / Matplotlib / Seaborn / Jupiter Notebook
