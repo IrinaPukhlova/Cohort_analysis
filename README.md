@@ -2,6 +2,7 @@
 
 ## Tech Stack
 Python / Pandas / Matplotlib / Seaborn / Jupiter Notebook
+
 The main analysis is done in the Jupiter Notebook file [cohort_analysis.ipynb](https://github.com/IrinaPukhlova/AB_testing/blob/main/AB_testing_project.ipynb)
 
 ## Goal
